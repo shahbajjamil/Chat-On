@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8840592479",
+    "firebase_url": "https://chatapp-fcea7.firebaseio.com",
+    "project_id": "chatapp-fcea7",
+    "storage_bucket": "chatapp-fcea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8840592479:android:92f90b06305bbe2e8d2fea",
+        "android_client_info": {
+          "package_name": "com.example.chaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8840592479-vm9sfl2uo9dn3tt3s0kjsk8eaobs8k9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6-7bohOuNO5NgRtdFCo_fImM7dsVMzGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8840592479-vm9sfl2uo9dn3tt3s0kjsk8eaobs8k9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
